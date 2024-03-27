@@ -58,6 +58,9 @@ This home-lab covers:
 - **Man-in-the-Middle (MitM) Attack**: Detect potential Man-in-the-Middle (MitM) attacks in network logs.(Hint: Look for network logs indicating rejected connections or SYN packets without completing the TCP handshake, which may suggest ARP spoofing or MitM attacks.)  
 - **Data Exfiltration**:  Identify data exfiltration attempts in network logs.(Hint: Look for network logs containing large outbound data transfers or unusually high volumes of data transmitted from internal to external destinations, which may indicate data exfiltration attempts.)
 
+## Need Training
+If you want to get hands-on training on Splunk SIEM and the above use case, then join our live Splunk Training.
+[Check our upcoming Live Training](https://learn.haxcamp.com/l/7993314077)
 
 
 
