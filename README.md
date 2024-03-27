@@ -6,11 +6,11 @@ This is the most powerful home-lab focused on setting up Splunk SIEM and real-wo
 ![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (1)](https://github.com/0xrajneesh/Home-Lab/assets/40385860/592b6605-5f36-42f5-b0d0-8dbb6e4a843a)
 
 This home-lab covers:
-- [Requirement](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#requirements)
-- [Lab Diagram](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#%EF%B8%8Flab-diagram)
-- [Setting up the Checkpoint Firewall Home-lab](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#-setting-up-the-checkpoint-firewall-home-lab)
-- [Excercises- Network-based attacks](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#excercises--network-based-attacks)
-- [Excercises- Real-world Scenarios](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#excercises--real-world-scenarios)
+- [Requirement](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#requirements)
+- [Lab Diagram](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#%EF%B8%8Flab-diagram)
+- [Setting up Splunk SIEM on Ubuntu Server](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#-setting-up-splunk-siem-on-ubuntu-server)
+- [Excercises- Investigating Web-based attacks](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#excercises--investigating-web-based-attacks)
+- [Excercises- Investigating Network-based attacks](https://github.com/0xrajneesh/Splunk-SIEM-Home-Lab?tab=readme-ov-file#excercises--investigating-network-based-attacks)
 - [Live Training](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/blob/main/README.md#need-training)
 
 ## 🧮Requirements
