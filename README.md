@@ -59,7 +59,7 @@ This home-lab covers:
 - **Data Exfiltration**:  Identify data exfiltration attempts in network logs.(Hint: Look for network logs containing large outbound data transfers or unusually high volumes of data transmitted from internal to external destinations, which may indicate data exfiltration attempts.)
 
 ## Need Training
-If you want to get hands-on training on Splunk SIEM and the above use case, then join our live Splunk Training.
+If you want to get hands-on training on Splunk SIEM and the above use case, then join our live Splunk Training.    
 [Check our upcoming Live Training](https://learn.haxcamp.com/l/7993314077)
 
 
